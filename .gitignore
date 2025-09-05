@@ -1,0 +1,33 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+*.xcworkspace/
+*.xcuserstate
+DerivedData/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs & Artifacts
+*.log
+*.ipa
+*.zip
+.DS_Store
